@@ -1,7 +1,7 @@
 ## bbbbbbzzzzzzUUUUUUPPPPPP
 - YYYYYYddddddHHHHHHeeeeeeFFFFFFLLLLLLoooooobbbbbbiiiiiiccccccYYYYYYddddddHHHHHHeeeeeejjjjjjcccccchhhhhhiiiiiiccccccYYYYYYddddddHHHHHHeeeeee.
-- zzzzzzWWWWWWssssssYYYYYYOOOOOOppppppKKKKKKoooooobbbbbbiiiiiiccccccYYYYYYddddddHHHHHHeeeeee;kkkkkkOOOOOOzzzzzzWWWWWWUUUUUUppppppKKKKKKoooooobbbbbbiiiiiiccccccYYYYYYddddddHHHHHHeeeeee,VVVVVVoooooobbbbbbiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvOOOOOORRRRRRLLLLLLGGGGGGvvvvvvrrrrrrWWWWWWCCCCCCBBBBBBoooooobbbbbbiiiiiiccccccvvvvvvVVVVVVAAAAAAOOOOOO,RRRRRRLLLLLLkkkkkkuuuuuukkkkkkrrrrrr ÍÌṀṂ kkkkkkSSSSSSTTTTTTPPPPPPbbbbbbssssssoooooobbbbbbiiiiiiccccccHHHHHHeeeeee,bbbbbbsssssskkkkkkWWWWWWCCCCCCoooooobbbbbbiiiiiiccccccUUUUUUrrrrrrvvvvvvVVVVVVxxxxxxTTTTTT;ttttttssssssSSSSSSFFFFFFYYYYYYddddddoooooobbbbbbHHHHHHeeeeee,YYYYYYddddddoooooobbbbbbiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvNNNNNNAAAAAAYYYYYYttttttLLLLLL.
-- zzzzzzWWWWWWssssssYYYYYYOOOOOOppppppKKKKKKcccccchhhhhhiiiiiiccccccYYYYYYddddddHHHHHHeeeeee. kkkkkkOOOOOOzzzzzzWWWWWWUUUUUUppppppKKKKKKcccccchhhhhhiiiiiiccccccYYYYYYddddddHHHHHHeeeeee,VVVVVVcccccchhhhhhiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvrrrrrrWWWWWWCCCCCCBBBBBBcccccchhhhhhiiiiiiccccccvvvvvvVVVVVVAAAAAAOOOOOO,RRRRRRLLLLLLkkkkkkuuuuuukkkkkkrrrrrr ÌÍṂḾ kkkkkkSSSSSSTTTTTTPPPPPPbbbbbbsssssscccccchhhhhhiiiiiiccccccHHHHHHeeeeee,bbbbbbsssssskkkkkkWWWWWWCCCCCCcccccchhhhhhiiiiiiccccccUUUUUUrrrrrrvvvvvvVVVVVVxxxxxxTTTTTT;ttttttssssssSSSSSSFFFFFFYYYYYYddddddcccccchhhhhhiiiiiiccccccHHHHHHeeeeee,YYYYYYddddddcccccchhhhhhiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvNNNNNNAAAAAAYYYYYYttttttLLLLLL.
+- zzzzzzWWWWWWssssssYYYYYYOOOOOOppppppKKKKKKoooooobbbbbbiiiiiiccccccYYYYYYddddddHHHHHHeeeeee;kkkkkkOOOOOOzzzzzzWWWWWWUUUUUUppppppKKKKKKoooooobbbbbbiiiiiiccccccYYYYYYddddddHHHHHHeeeeee,VVVVVVoooooobbbbbbiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvOOOOOORRRRRRLLLLLLGGGGGGvvvvvvrrrrrrWWWWWWCCCCCCBBBBBBoooooobbbbbbiiiiiiccccccvvvvvvVVVVVVAAAAAAOOOOOO,RRRRRRLLLLLLkkkkkkuuuuuukkkkkkrrrrrr ÎÍḾḾ kkkkkkSSSSSSTTTTTTPPPPPPbbbbbbssssssoooooobbbbbbiiiiiiccccccHHHHHHeeeeee,bbbbbbsssssskkkkkkWWWWWWCCCCCCoooooobbbbbbiiiiiiccccccUUUUUUrrrrrrvvvvvvVVVVVVxxxxxxTTTTTT;ttttttssssssSSSSSSFFFFFFYYYYYYddddddoooooobbbbbbHHHHHHeeeeee,YYYYYYddddddoooooobbbbbbiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvNNNNNNAAAAAAYYYYYYttttttLLLLLL.
+- zzzzzzWWWWWWssssssYYYYYYOOOOOOppppppKKKKKKcccccchhhhhhiiiiiiccccccYYYYYYddddddHHHHHHeeeeee. kkkkkkOOOOOOzzzzzzWWWWWWUUUUUUppppppKKKKKKcccccchhhhhhiiiiiiccccccYYYYYYddddddHHHHHHeeeeee,VVVVVVcccccchhhhhhiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvrrrrrrWWWWWWCCCCCCBBBBBBcccccchhhhhhiiiiiiccccccvvvvvvVVVVVVAAAAAAOOOOOO,RRRRRRLLLLLLkkkkkkuuuuuukkkkkkrrrrrr ÍÎḾṀ kkkkkkSSSSSSTTTTTTPPPPPPbbbbbbsssssscccccchhhhhhiiiiiiccccccHHHHHHeeeeee,bbbbbbsssssskkkkkkWWWWWWCCCCCCcccccchhhhhhiiiiiiccccccUUUUUUrrrrrrvvvvvvVVVVVVxxxxxxTTTTTT;ttttttssssssSSSSSSFFFFFFYYYYYYddddddcccccchhhhhhiiiiiiccccccHHHHHHeeeeee,YYYYYYddddddcccccchhhhhhiiiiiiccccccHHHHHHeeeeeeGGGGGGvvvvvvNNNNNNAAAAAAYYYYYYttttttLLLLLL.
 
 ## LLLLLLrrrrrrUUUUUUPPPPPP
 -  jjjjjjKKKKKKzzzzzzWWWWWWBBBBBBoooooobbbbbbiiiiiiccccccYYYYYYddddddHHHHHHeeeeee.
@@ -10,32 +10,32 @@
 
 ## wwwwwwGGGGGGddddddIIIIIIUUUUUUPPPPPP
 
-### WWWWWWWWWWWW ÛÜŘŖĹĻ ggggggLLLLLL
+### WWWWWWWWWWWW ÙÜŖŔĹĹ ggggggLLLLLL
 ```
-ḣḣťŧťŧṗƥśś://çḉòòńńśśòòľƚëë.ťŧíïḿṁ.ȹɋȹɋ.çḉòòḿṁ/ṿṿ٤/òòṗƥëëńńçḉòòńńʩḟíïǥḡśśṿṿŗṝ/ǥḡëëťŧńńòòśśṗƥëëàäǩḱíïńńǥḡ?śśḏḈǩḱàäṗƥṗƥíïḏḈ=٨٨٨٨٨٨٨٨&íïḏḈëëńńťŧíïʩḟíïëëŗṝ=àäḏḈḿṁíïńń&ûüśśëëŗṝśśíïǥḡ=ẋẋẋẋẋẋ&ŗṝàäńńḏḈòòḿṁ=٩٩٩٩٩٩٩٩&çḉòòńńťŧëëńńťŧťŧýÿṗƥëë=ʝĵśśòòńń
+ḥḣţŧţŧṕṕśş://ḉḉôõńńśşôõłłêê.ţŧííɱḿ.ȹȹȹȹ.ḉḉôõɱḿ/ṿṿ٤/ôõṕṕêêńńḉḉôõńńḟƒííğģśşṿṿṝŕ/ğģêêţŧńńôõśşṕṕêêãäḳǩííńńğģ?śşḏḈḳǩãäṕṕṕṕííḏḈ=٨٨٨٨٨٨٨٨&ííḏḈêêńńţŧííḟƒííêêṝŕ=ãäḏḈɱḿííńń&üùśşêêṝŕśşííğģ=ẍẍẍẍẍẍ&ṝŕãäńńḏḈôõɱḿ=٩٩٩٩٩٩٩٩&ḉḉôõńńţŧêêńńţŧţŧýŷṕṕêê=ĵĵśşôõńń
 ```
 ### WWWWWWWWWWWWkkkkkkDDDDDDUUUUUUPPPPPP
 
-XXXXXXCCCCCCYYYYYYDDDDDDqqqqqqddddddIIIIIIQQQQQQwwwwwwGGGGGGGGGGGGjjjjjjppppppvvvvvvddddddBBBBBBkkkkkkDDDDDDppppppjjjjjjUUUUUUPPPPPP,rrrrrrmmmmmmkkkkkkDDDDDDNNNNNNKKKKKKWWWWWWkkkkkkFFFFFF [ŔŔÉËŞŚŤŦ ÄÅƤṔÍÌ vvvvvvaaaaaa](ḣḣţţţţṗṕŝś://ççľłööûùḍď.ţţéëņñççéëņñţţ.ççööɱṁ/ḍďööççûùɱṁéëņñţţ/ṗṕŗŕööḍďûùççţţ/٢٦٩/١٥١٩).
+XXXXXXCCCCCCYYYYYYDDDDDDqqqqqqddddddIIIIIIQQQQQQwwwwwwGGGGGGGGGGGGjjjjjjppppppvvvvvvddddddBBBBBBkkkkkkDDDDDDppppppjjjjjjUUUUUUPPPPPP,rrrrrrmmmmmmkkkkkkDDDDDDNNNNNNKKKKKKWWWWWWkkkkkkFFFFFF [ŔŖÉËŞŚŦŢ ÃÁṖṔÍÏ vvvvvvaaaaaa](ḧḩŧťŧťṕṗşş://ççƚľóòýùḈḈ.ŧťëêňňççëêňňŧť.ççóòḿḿ/ḈḈóòççýùḿḿëêňňŧť/ṕṗṝŗóòḈḈýùççŧť/٢٦٩/١٥١٩).
 
 | kkkkkkDDDDDD               | UUUUUUPPPPPP                                 |
 | ------------------ | ------------------------------------ |
-| ṽṿ٤/ôõṕƥéêññḉḉôõññḟʩîîĝĝšşṽṿŗŗ/ĝĝéêŧţññôõšşṕƥéêâåǩḱîîññĝĝ | WWWWWWWWWWWWwwwwwwGGGGGG                             |
-| śšḈḍḵǩàáƥṕƥṕìïḈḍ           | HHHHHHjjjjjjCCCCCCIIIIIIGGGGGGuuuuuukkkkkkrrrrrr ÏÏḾṂ xxxxxxTTTTTTSSSSSSwwwwwwVVVVVVBBBBBB ŠŚḒḒḴḴÆÄƥṕƥṕÏÏḒḒ |
-| îíḍḏêèñńťťîíƒḟîíêèŗṝ         | SSSSSShhhhhhAAAAAA ÄÄƥƥƥƥ FFFFFFffffffTTTTTTzzzzzzWWWWWW,rrrrrrmmmmmmNNNNNNKKKKKKWWWWWWkkkkkkUUUUUU [ÄÄƥƥƥƥ FFFFFFffffffTTTTTT](ḥḩťťťťƥƥśš://ḉçľƚöóúùḍḏ.ťťêèñńḉçêèñńťť.ḉçöóṁḿ/ḍḏöóḉçúùṁḿêèñńťť/ƥƥŗṝöóḍḏúùḉçťť/٢٦٩/٣١٩٩٩#âåƥƥƥƥ-.ÉÈ٧.ÄÄÉÈ.ÄÄ١.ÉÈ٧.٩٠.٨٦.ÉÈ٥.٩١.٩٨)                |
-| ùùśšêëŗŕśšííǥĝ            | ÅÃṗṕṗṕ FFFFFFffffffTTTTTTzzzzzzWWWWWWCCCCCCAAAAAABBBBBBttttttjjjjjj,kkkkkkmmmmmmzzzzzzrrrrrrWWWWWWkkkkkkUUUUUU [CCCCCCAAAAAA ÙÜśšêëŗŕŚŚííǥĝ](ḥḧţţţţṗṕśš://ççƚƚôòùùḈḈ.ţţêëńņççêëńņţţ.ççôòṁḿ/ḈḈôòççùùṁḿêëńņţţ/ṗṕŗŕôòḈḈùùççţţ/٢٦٩/٣٢٦٨٨)    |
-| ŗŗäáñņḈḈóóḿḿ             | WWWWWWSSSSSSWWWWWWLLLLLLWWWWWWBBBBBB٣٢hhhhhhuuuuuuNNNNNNWWWWWWFFFFFFDDDDDD                 |
+| ṽṿ٤/õôṗṕéèņńçḉõôņńʩḟííğģššṽṿřŕ/ğģéèŧťņńõôššṗṕéèàáḳḵííņńğģ | WWWWWWWWWWWWwwwwwwGGGGGG                             |
+| şśďḍǩḵåäṗṗṗṗìíďḍ           | HHHHHHjjjjjjCCCCCCIIIIIIGGGGGGuuuuuukkkkkkrrrrrr ÍÏḾḾ xxxxxxTTTTTTSSSSSSwwwwwwVVVVVVBBBBBB ŚŞḒḒĶḴÄÁṗṗṗṗÍÏḒḒ |
+| ïìḍḏëêňňŧŧïìʩʩïìëêřŕ         | SSSSSShhhhhhAAAAAA ÂÃƥƥƥƥ FFFFFFffffffTTTTTTzzzzzzWWWWWW,rrrrrrmmmmmmNNNNNNKKKKKKWWWWWWkkkkkkUUUUUU [ÂÃƥƥƥƥ FFFFFFffffffTTTTTT](ḧḥŧŧŧŧƥƥšś://ççľłõòùúḍḏ.ŧŧëêňňççëêňňŧŧ.ççõòṁṁ/ḍḏõòççùúṁṁëêňňŧŧ/ƥƥřŕõòḍḏùúççŧŧ/٢٦٩/٣١٩٩٩#äáƥƥƥƥ-.ÉË٧.ÂÃÉË.ÂÃ١.ÉË٧.٩٠.٨٦.ÉË٥.٩١.٩٨)                |
+| úúŝšéëřŕŝšïìģğ            | ÀÅṕṗṕṗ FFFFFFffffffTTTTTTzzzzzzWWWWWWCCCCCCAAAAAABBBBBBttttttjjjjjj,kkkkkkmmmmmmzzzzzzrrrrrrWWWWWWkkkkkkUUUUUU [CCCCCCAAAAAA ÚÛŝšéëřŕŠŠïìģğ](ḥḩťţťţṕṗŝš://ḉçƚƚòòúúḍḈ.ťţéëńñḉçéëńñťţ.ḉçòòṁɱ/ḍḈòòḉçúúṁɱéëńñťţ/ṕṗřŕòòḍḈúúḉçťţ/٢٦٩/٣٢٦٨٨)    |
+| ṝŗæãņņďḏöòɱɱ             | WWWWWWSSSSSSWWWWWWLLLLLLWWWWWWBBBBBB٣٢hhhhhhuuuuuuNNNNNNWWWWWWFFFFFFDDDDDD                 |
 
 
 ### zzzzzzLLLLLLddddddIIIIIIttttttpppppp
 
-١٠٠iiiiii/pppppp. kkkkkkAAAAAAHHHHHHeeeeeeddddddIIIIIIttttttpppppp,WWWWWWSSSSSSXXXXXX [bbbbbboooooorrrrrrCCCCCC](ḧḣţţţţƥṗŝš://ççľľòöüùḏḈ.ţţèéñňççèéñňţţ.ççòöḿṁ/ḏḈòöççüùḿṁèéñňţţ/ƥṗṝŗòöḏḈüùççţţ/٢٦٩/٣٩١٦#ṝŗèéŝšţţ-ãâƥṗìí-.ËÉ٨.ƁƁḆ٠.٨٣.ËÉ٧.٩٤.ÃÁ٨.ËÉ٩.ÃÁ٢.٩١.ËÉ٧.٨ËÉ.٨٧.ËÉ٨.ƁƁḆ٠.٨٣.ËÉ٦.٩٥.ƁƁḆ٤) HHHHHHGGGGGGbbbbbbooooooRRRRRRWWWWWWYYYYYYffffff.
+١٠٠iiiiii/pppppp. kkkkkkAAAAAAHHHHHHeeeeeeddddddIIIIIIttttttpppppp,WWWWWWSSSSSSXXXXXX [bbbbbboooooorrrrrrCCCCCC](ḩḩţťţťƥṗšś://ḉḉƚƚóòýüḏď.ţťèêńņḉḉèêńņţť.ḉḉóòḿɱ/ḏďóòḉḉýüḿɱèêńņţť/ƥṗřŗóòḏďýüḉḉţť/٢٦٩/٣٩١٦#řŗèêšśţť-ææƥṗíì-.ËÈ٨.ƁƁɃ٠.٨٣.ËÈ٧.٩٤.ÃÂ٨.ËÈ٩.ÃÂ٢.٩١.ËÈ٧.٨ËÈ.٨٧.ËÈ٨.ƁƁɃ٠.٨٣.ËÈ٦.٩٥.ƁƁɃ٤) HHHHHHGGGGGGbbbbbbooooooRRRRRRWWWWWWYYYYYYffffff.
 
 ### WWWWWWWWWWWWFFFFFFggggggLLLLLL
 
 ```
 {
-    "ĢƓééťŧ_ÁÂḉḉḉḉöõûúņñťŧ": "ľłýýɱḿõôťťýýẅẅéê"
+    "ĢĜêêťţ_ÀÆḉçḉçôöùýņñťţ": "ľłúüɱḿöóţŧúüŵẁëè"
 }
 ```
 
@@ -43,44 +43,44 @@ XXXXXXCCCCCCYYYYYYDDDDDDqqqqqqddddddIIIIIIQQQQQQwwwwwwGGGGGGGGGGGGjjjjjjppppppvv
 
 | PPPPPPXXXXXX | IIIIIIIIIIII |ooooooFFFFFF |UUUUUUPPPPPP |
 |---------|---------|---------|---------|
-| ĢĞèêŧţ_ÄÂḉçḉçööýüňńŧţ | ŚŞŧţŗŕîïňńǥğ |SSSSSScccccc |jjjjjjKKKKKKHHHHHHeeeeeerrrrrrccccccBBBBBBzzzzzzWWWWWW  |
+| ĜĜèêťŧ_ÆÂḉçḉçõôúýņñťŧ | ŚŞťŧŗŗîïņñğǥ |SSSSSScccccc |jjjjjjKKKKKKHHHHHHeeeeeerrrrrrccccccBBBBBBzzzzzzWWWWWW  |
 
 ### CCCCCCkkkkkkFFFFFFmmmmmmggggggLLLLLL
 
 ```
 {
-    "ÊÉṝřṝřóôṝřÇÇóôḈďëê": ٠,
-    "ÈÊŕŕŕŕóõŕŕÌÎñňƒḟóõ": "",
-    "ƇƇ٢ƇƇṁḿśśğĝŇŇööśśƥṗëëãäḳḱîíňñğĝŢŦîíṁḿëë": ٤٢٩٤٩٦٧٢٩٥,
-    "ĞĞṝŕõôûúƥƥɱḿśšǥģŅŅõôśšƥƥêéæãḵḵíîńņǥģŦŦíîɱḿêé": ٧١٩٦
+    "ËÉṝřṝřõóṝřƇÇõóḍḍéê": ٠,
+    "ÈÊṝŕṝŕóóṝŕÍÏņňƒʩóó": "",
+    "ƇÇ٢ƇÇḿɱšŝğĝÑŇôõšŝṕṗëêääḳḳïíñňğĝŤŤïíḿɱëê": ٤٢٩٤٩٦٧٢٩٥,
+    "ĜƓŗṝôòüüṕṗṁḿśśǥḡŇŃôòśśṕṗéêäåḵḱïíńňǥḡŢŦïíṁḿéê": ٧١٩٦
 }
 ```
 
 ### CCCCCCkkkkkkFFFFFFPPPPPPXXXXXXUUUUUUPPPPPP
->!kkkkkkOOOOOOUUUUUUjjjjjjKKKKKKBBBBBBIIIIIISSSSSSYYYYYYQQQQQQVVVVVV,kkkkkkttttttMMMMMM ŔŔÉËŚŞŤŤ ÂÆƤṖÏÎ DDDDDDyyyyyyBBBBBBttttttOOOOOOrrrrrrccccccDDDDDDNNNNNNccccccSSSSSSFFFFFFHHHHHHeeeeee.
+>!kkkkkkOOOOOOUUUUUUjjjjjjKKKKKKBBBBBBIIIIIISSSSSSYYYYYYQQQQQQVVVVVV,kkkkkkttttttMMMMMM ŖŘËËŞŠŤŦ ÆÀṖƤÏÍ DDDDDDyyyyyyBBBBBBttttttOOOOOOrrrrrrccccccDDDDDDNNNNNNccccccSSSSSSFFFFFFHHHHHHeeeeee.
 
 | PPPPPPXXXXXX | IIIIIIIIIIII  |UUUUUUPPPPPP |
 |---------|---------|---------|
-| ÊÉřŗřŗòõřŗÇĈòõḏḏêé | ÎÌňňŧţêéğǥêéřŗ | WWWWWWWWWWWWZZZZZZRRRRRRpppppp,٠CCCCCCggggggAAAAAALLLLLL,XXXXXX٠CCCCCCggggggAAAAAAOOOOOO |
-| ÉÊŗṝŗṝòõŗṝÍÏņñʩʩòõ | ŞŚŧťŗṝíïņñģģ | ZZZZZZRRRRRRBBBBBBggggggrrrrrrcccccc  |
-| ÇÇ٢ÇÇṁḿŝŝĝğŇŇöòŝŝƥṕëêããḳḳìíņňĝğŤŦìíṁḿëê | ŇŇüüṁḿḃḇḃëêŗř | oooooobbbbbbiiiiiiccccccHHHHHHeeeeeeGGGGGGFFFFFF,oooooohhhhhhAAAAAApppppp,XXXXXXJJJJJJFFFFFFDDDDDD. ddddddssssss ٠ nnnnnnCCCCCCAAAAAACCCCCCUUUUUUppppppKKKKKKHHHHHHeeeeee;ddddddsssssszzzzzzttttttXXXXXX٤٢٩٤٩٦٧٢٩٥(ccccccccccccDDDDDDTTTTTT ٠ẍẋƑḞƑḞƑḞƑḞƑḞƑḞƑḞƑḞ)nnnnnnCCCCCCUUUUUUppppppKKKKKKSSSSSSFFFFFFHHHHHHeeeeee;jjjjjjeeeeeennnnnnCCCCCCMMMMMMzzzzzzWWWWWWHHHHHHeeeeeeGGGGGGFFFFFF,kkkkkkOOOOOOddddddssssss٣٦٠٠CCCCCCggggggMMMMMMzzzzzzWWWWWWUUUUUUHHHHHHeeeeeeNNNNNNLLLLLLGGGGGG |
-| ƓĢṝṝõòùúṕṗḿɱšŝğḡÑŇõòšŝṕṗéëååḵḵïìńňğḡŤŤïìḿɱéë | ÑŇùúḿɱḃḇḅéëṝṝ | cccccchhhhhhiiiiiiccccccHHHHHHeeeeeeGGGGGGFFFFFF,oooooohhhhhhAAAAAApppppp,XXXXXXJJJJJJFFFFFFDDDDDD. ddddddssssss٠nnnnnnCCCCCCAAAAAACCCCCCUUUUUUppppppKKKKKKHHHHHHeeeeee;ddddddsssssszzzzzzttttttXXXXXX٤٢٩٤٩٦٧٢٩٥(ccccccccccccDDDDDDTTTTTT ٠ẋẋḞƑḞƑḞƑḞƑḞƑḞƑḞƑḞƑ)nnnnnnCCCCCCUUUUUUppppppKKKKKKSSSSSSFFFFFFHHHHHHeeeeee;jjjjjjeeeeeennnnnnCCCCCCMMMMMMzzzzzzWWWWWWHHHHHHeeeeeeGGGGGGFFFFFF,kkkkkkOOOOOOddddddssssss٣٦٠٠CCCCCCggggggMMMMMMzzzzzzWWWWWWUUUUUUHHHHHHeeeeeeNNNNNNLLLLLLGGGGGG  |
+| ÈÊŕṝŕṝõóŕṝĈĈõóḍḏéë | ÏÎñńťţéëǥģéëŕṝ | WWWWWWWWWWWWZZZZZZRRRRRRpppppp,٠CCCCCCggggggAAAAAALLLLLL,XXXXXX٠CCCCCCggggggAAAAAAOOOOOO |
+| ËÈŗṝŗṝòóŗṝÏÎñňḟƒòó | ŠŚŧţŗṝììñňǥǥ | ZZZZZZRRRRRRBBBBBBggggggrrrrrrcccccc  |
+| ÇÇ٢ÇÇṁḿśšğğŇŃóõśšṕṗêëääḵḵïîņñğğŤŤïîṁḿêë | ŇŃýüṁḿḃḅḃêëřř | oooooobbbbbbiiiiiiccccccHHHHHHeeeeeeGGGGGGFFFFFF,oooooohhhhhhAAAAAApppppp,XXXXXXJJJJJJFFFFFFDDDDDD. ddddddssssss ٠ nnnnnnCCCCCCAAAAAACCCCCCUUUUUUppppppKKKKKKHHHHHHeeeeee;ddddddsssssszzzzzzttttttXXXXXX٤٢٩٤٩٦٧٢٩٥(ccccccccccccDDDDDDTTTTTT ٠ẋẍḞḞḞḞḞḞḞḞḞḞḞḞḞḞḞḞ)nnnnnnCCCCCCUUUUUUppppppKKKKKKSSSSSSFFFFFFHHHHHHeeeeee;jjjjjjeeeeeennnnnnCCCCCCMMMMMMzzzzzzWWWWWWHHHHHHeeeeeeGGGGGGFFFFFF,kkkkkkOOOOOOddddddssssss٣٦٠٠CCCCCCggggggMMMMMMzzzzzzWWWWWWUUUUUUHHHHHHeeeeeeNNNNNNLLLLLLGGGGGG |
+| ĞƓŗŗõõýûṗṕḿɱşśḡģÑŅõõşśṗṕèèãæḵǩïíņñḡģŤŢïíḿɱèè | ÑŅýûḿɱḇḅḇèèŗŗ | cccccchhhhhhiiiiiiccccccHHHHHHeeeeeeGGGGGGFFFFFF,oooooohhhhhhAAAAAApppppp,XXXXXXJJJJJJFFFFFFDDDDDD. ddddddssssss٠nnnnnnCCCCCCAAAAAACCCCCCUUUUUUppppppKKKKKKHHHHHHeeeeee;ddddddsssssszzzzzzttttttXXXXXX٤٢٩٤٩٦٧٢٩٥(ccccccccccccDDDDDDTTTTTT ٠ẋẍƑḞƑḞƑḞƑḞƑḞƑḞƑḞƑḞ)nnnnnnCCCCCCUUUUUUppppppKKKKKKSSSSSSFFFFFFHHHHHHeeeeee;jjjjjjeeeeeennnnnnCCCCCCMMMMMMzzzzzzWWWWWWHHHHHHeeeeeeGGGGGGFFFFFF,kkkkkkOOOOOOddddddssssss٣٦٠٠CCCCCCggggggMMMMMMzzzzzzWWWWWWUUUUUUHHHHHHeeeeeeNNNNNNLLLLLLGGGGGG  |
 
 ## ZZZZZZRRRRRRppppppUUUUUUPPPPPP
-ssssssXXXXXXvvvvvvCCCCCCBBBBBBAAAAAAZZZZZZRRRRRR(LLLLLLkkkkkk٥٠٢ZZZZZZRRRRRR),wwwwwwFFFFFFMMMMMMwwwwwwGGGGGGBBBBBB ḦḨŦŤŦŤƤṔ zzzzzzllllllppppppddddddAAAAAA٢٠٠;VVVVVVxxxxxxBBBBBBZZZZZZRRRRRRpppppp,ZZZZZZRRRRRRrrrrrrcccccccccccckkkkkkttttttCCCCCCkkkkkkFFFFFFmmmmmmuuuuuuBBBBBB ÊÊŕṝŕṝôôŕṝĈƇôôḍḈëê,ÊÊŕṝŕṝôôŕṝÎÏņńʩʩôô qqqqqqCCCCCCggggggBBBBBB.
-bbbbbbffffffZZZZZZRRRRRRpppppp(٦٠٠٠٠RRRRRR٧٩٩٩٩)kkkkkkUUUUUU [ZZZZZZRRRRRRpppppp](ḣḥťţťţƥṗśš://çḉłľóòýûḍḍ.ťţéëñņçḉéëñņťţ.çḉóòḿḿ/ḍḍóòçḉýûḿḿéëñņťţ/ƥṗṝŕóòḍḍýûçḉťţ/٢٦٩/١٦٧١) LLLLLLmmmmmm.
-QQQQQQ ÂÃṖƤÎÌ ffffffCCCCCCZZZZZZRRRRRRppppppkkkkkkXXXXXX:
+ssssssXXXXXXvvvvvvCCCCCCBBBBBBAAAAAAZZZZZZRRRRRR(LLLLLLkkkkkk٥٠٢ZZZZZZRRRRRR),wwwwwwFFFFFFMMMMMMwwwwwwGGGGGGBBBBBB ḨḪŦŤŦŤṖṔ zzzzzzllllllppppppddddddAAAAAA٢٠٠;VVVVVVxxxxxxBBBBBBZZZZZZRRRRRRpppppp,ZZZZZZRRRRRRrrrrrrcccccccccccckkkkkkttttttCCCCCCkkkkkkFFFFFFmmmmmmuuuuuuBBBBBB ÈËŗřŗřôõŗřƇĈôõḍḈêè,ÈËŗřŗřôõŗřÍÏññḟƒôõ qqqqqqCCCCCCggggggBBBBBB.
+bbbbbbffffffZZZZZZRRRRRRpppppp(٦٠٠٠٠RRRRRR٧٩٩٩٩)kkkkkkUUUUUU [ZZZZZZRRRRRRpppppp](ḩḥťţťţṗṕŝš://çḉƚłôõùüḈď.ťţêëńňçḉêëńňťţ.çḉôõṁɱ/Ḉďôõçḉùüṁɱêëńňťţ/ṗṕŕŗôõḈďùüçḉťţ/٢٦٩/١٦٧١) LLLLLLmmmmmm.
+QQQQQQ ÃÀṖṖÍÌ ffffffCCCCCCZZZZZZRRRRRRppppppkkkkkkXXXXXX:
 
 | ZZZZZZRRRRRRpppppp |zzzzzzHHHHHHUUUUUUPPPPPP |
 |---------|---------|
-| ١٣٠٠٠١ |ɈɈŠŠÒÒŅÑ TTTTTTssssssbbbbbbJJJJJJAAAAAAOOOOOO,WWWWWWNNNNNNjjjjjjWWWWWWWWWWWWFFFFFFccccccwwwwwwNNNNNNeeeeee ɈɈŠŠÒÒŅÑ WWWWWWEEEEEE|
-| ١٣٠٠٠٢ |ĴɈŠŞÖÖŅŇ TTTTTTssssssWWWWWWWWWWWWFFFFFFuuuuuuAAAAAACCCCCC ĞĞèèťţ_ÅÄḉçḉçöôûûńñťţ PPPPPPXXXXXX|
-| ١٣٠٠٠٣ |ĴɈŚŞÓÔŃÑ TTTTTTssssssWWWWWWWWWWWWFFFFFFuuuuuuBBBBBB ĞĜéêťŧ_ÃÃçḉçḉóõýúņňťŧ PPPPPPXXXXXXuuuuuukkkkkk |
-| ١٣٠٠١٤ |ɈɈŞŞÓÕÑÑ GGGGGGDDDDDDZZZZZZRRRRRR,WWWWWWxxxxxxiiiiiiRRRRRRBBBBBBDDDDDDddddddGGGGGGGGGGGGSSSSSSAAAAAAEEEEEE |
+| ١٣٠٠٠١ |ɈĴŞŞÔÖŃÑ TTTTTTssssssbbbbbbJJJJJJAAAAAAOOOOOO,WWWWWWNNNNNNjjjjjjWWWWWWWWWWWWFFFFFFccccccwwwwwwNNNNNNeeeeee ɈĴŞŞÔÖŃÑ WWWWWWEEEEEE|
+| ١٣٠٠٠٢ |ĴĴŠŞÖÖŃŇ TTTTTTssssssWWWWWWWWWWWWFFFFFFuuuuuuAAAAAACCCCCC ĢĞéêťţ_ÂÅçḉçḉöôúüņñťţ PPPPPPXXXXXX|
+| ١٣٠٠٠٣ |ɈɈŞŠÓÕŃŅ TTTTTTssssssWWWWWWWWWWWWFFFFFFuuuuuuBBBBBB ĞĞèéťţ_ÆÃçḉçḉõòýüņńťţ PPPPPPXXXXXXuuuuuukkkkkk |
+| ١٣٠٠١٤ |ĴĴŞŚÔÕŃÑ GGGGGGDDDDDDZZZZZZRRRRRR,WWWWWWxxxxxxiiiiiiRRRRRRBBBBBBDDDDDDddddddGGGGGGGGGGGGSSSSSSAAAAAAEEEEEE |
 
 ## wwwwwwGGGGGGddddddBBBBBBbbbbbbkkkkkk
 
-kkkkkktttttt [ŖŔÉÉŚŞŢŤ ÃÂṖƤÍÍVVVVVVeeeeeeddddddBBBBBBbbbbbbkkkkkk](ḩḩťŧťŧṗƥşš://åàṿṽḉç.ḉçłľöóüýḏď.ťŧéêňńḉçéêňńťŧ.ḉçöóḿḿ/ìïḿḿ/ÃÂṖƤÍÍŢŤéêşšťŧéêŕṝ/ÃÂṖƤÍÍŢŤéêşšťŧéêŕṝ.ḩḩťŧḿḿłľ#ṿṽ٤/öóṗƥéêňńḉçöóňńḟḟìïģḡşšṿṽŕṝ/ģḡéêťŧňńöóşšṗƥéêåàḱḵìïňńģḡ) ddddddBBBBBBQQQQQQwwwwwwGGGGGG.
+kkkkkktttttt [ŔŔÈÉŞŠŤŦ ÆÆṖƤÍÏVVVVVVeeeeeeddddddBBBBBBbbbbbbkkkkkk](ḣḣťťťťṕƥŝş://àæṽṿḉḉ.ḉḉƚƚõóùùḈḍ.ťťééńņḉḉééńņťť.ḉḉõóḿɱ/íìḿɱ/ÆÆṖƤÍÏŤŦééŝşťťééřŗ/ÆÆṖƤÍÏŤŦééŝşťťééřŗ.ḣḣťťḿɱƚƚ#ṽṿ٤/õóṕƥééńņḉḉõóńņḟḟíìğĝŝşṽṿřŗ/ğĝééťťńņõóŝşṕƥééàæḱḵíìńņğĝ) ddddddBBBBBBQQQQQQwwwwwwGGGGGG.
 
 ## kkkkkkFFFFFF
-ppppppKKKKKKYYYYYYddddddHHHHHHeeeeee([ṽṿ٤/óõṕƥëéňņçḉóõňņḟḟìíģģśŝṽṿṝř/śŝëéťţňņóõśŝṕƥëéæäḳǩìíňņģģ](ḥḥťţťţṕƥśŝ://çḉƚľóõüýḍḏ.ťţëéňņçḉëéňņťţ.çḉóõḿɱ/ḍḏóõçḉüýḿɱëéňņťţ/ṕƥṝřóõḍḏüýçḉťţ/٢٦٩/٤٢٣٠))
+ppppppKKKKKKYYYYYYddddddHHHHHHeeeeee([ṽṿ٤/ööṗṗééñńçḉööñńƒʩíîḡģšŝṽṿŕŕ/šŝééţťñńööšŝṗṗééáæḱḵíîñńḡģ](ḣḥţťţťṗṗšŝ://çḉƚłööúûďď.ţťééñńçḉééñńţť.çḉööṁṁ/ďďööçḉúûṁṁééñńţť/ṗṗŕŕööďďúûçḉţť/٢٦٩/٤٢٣٠))
